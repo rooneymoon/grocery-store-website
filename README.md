@@ -14,7 +14,6 @@ Designed and built by Pannisa :)
 <img src="images/home-php.png">
 <img src="images/store-php.png">
 <img src="images/cart-php.png">
-<img src="images/admin-php.png">
 <img src="images/edit-php.png">
 
 
